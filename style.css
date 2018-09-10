@@ -1,5 +1,5 @@
 body {
-    background-image: url("frank.jpg");
+    background-image: url("images/frank.jpg");
     background-repeat:repeat-y;
     background-size: 100%;
     color: blue;
@@ -35,4 +35,7 @@ h2 {
 }
 .list{
     margin: auto;
+}
+div.class {
+    background-color: black;
 }
